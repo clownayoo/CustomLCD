@@ -18,6 +18,10 @@ It also supports:
 - **Custom greetings based on time of day**
 - **Multiple Wi-Fi credentials for reliable connection**
 
+![lcd2](https://github.com/user-attachments/assets/0217db36-2466-49df-b1bf-2aa55778d2b4)
+![lcd](https://github.com/user-attachments/assets/1a481b98-79e7-4f9b-aa1b-20703cc2c927)
+
+
 ---
 
 ## ✨ Features
@@ -88,4 +92,6 @@ This project is licensed under the MIT License — feel free to modify and share
 
 ---
 
-**Made with ❤️ by MAXONXOXO**
+**Made with ❤️ by MAXONXOXO**!
+
+
